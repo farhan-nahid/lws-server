@@ -1,0 +1,189 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+      "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
+      "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
+      "tags": ["javascript", "react", "tips"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 2,
+      "title": "VS Code Snippets - Boost your productivity with User Snippets",
+      "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "April 25, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+      "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
+      "tags": ["vscode", "tips"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 3,
+      "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+      "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "March 11, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+      "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
+      "tags": ["tailwind", "css"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 4,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Jan 06, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+      "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+      "tags": ["debounce", "javascript", "tips"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 5,
+      "title": "SASS Tutorial in English - Overview of SASS",
+      "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 22, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
+      "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
+      "tags": ["sass", "css", "ui"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 6,
+      "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+      "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 08, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+      "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
+      "tags": ["react", "router", "javascript"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 7,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": ["tailwind", "css", "ui"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 8,
+      "title": "নিজে নিজে বানিয়ে ফেলো স্মার্ট স্ক্যানার । কি মজা ! জাস্ট ২৫ লাইন পাইথন এর কোড লিখে। Python Project",
+      "description": "নিজে নিজে বানিয়ে ফেলো স্মার্ট স্ক্যানার । কি মজা ! জাস্ট ২৫ লাইন পাইথন এর কোড লিখে। Python Project | নিজে নিজে বানিয়ে ফেলো স্মার্ট স্ক্যানার । কি মজা ! জাস্ট ২৫ লাইন পাইথন এর কোড লিখে। Python Project | নিজে নিজে বানিয়ে ফেলো স্মার্ট স্ক্যানার । কি মজা ! জাস্ট ২৫ লাইন পাইথন এর কোড লিখে। Python Project | নিজে নিজে বানিয়ে ফেলো স্মার্ট স্ক্যানার । কি মজা ! জাস্ট ২৫ লাইন পাইথন এর কোড লিখে। Python Project",
+      "author": "Jhankar Mahbub",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s68-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/XFZyqeTnVuk",
+      "thumbnail": "https://i.ytimg.com/vi/XFZyqeTnVuk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANTDEeq6v1gLaTkIIYmf9LP0hhbA",
+      "tags": ["Python"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 9,
+      "title": "১ মাসের মধ্যে প্রোগ্রামিং শিখার নিষ্ঠুর প্ল্যান 🔥🔥🔥 প্রোগ্রামিং শেখার ডিটেইল গাইডলাইন । Jhankar",
+      "description": "দুইদিন চেষ্টা করলাম। আটকে গেলে হালকা একটু গুতাই গাতাই ছেড়ে দিলাম---তাদের জন্য প্রোগ্রামিং না।  তাই কুত কুত করে প্রোগ্রামিং শিখার আশা ছেড়ে দিয়ে এক মাসের নিষ্ঠুর একটা প্ল্যান নিয়ে অনেক কিছু শিখে এগিয়ে যাও।  সো, তুমি যদি প্রোগ্রামিং শিখার এক মাসের সিরিয়াস রুটিন চাও। যেটা পরীক্ষার পরের বা সেমিস্টার গ্যাপের ১ মাসের মধ্যে ভাজা ভাজা করে ফেলতে পারবে তাদের জন্য এই প্ল্যান  প্রবলেম সলভিং এর জন্য প্রোগ্রামিং হিরো এপ এর হোম পেইজে স্ক্রল করে তারপর Problem Solving এ ক্লিক করো",
+      "author": "Jhankar Mahbub",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s68-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/Sbn18WSKRtE",
+      "thumbnail": "https://i.ytimg.com/vi/Sbn18WSKRtE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAw62B2b3nV9SpnD10lwKn_Yt31jQ",
+      "tags": ["Programming"],
+      "likes": 0,
+      "unlikes": 0
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "title": "javascript"
+    },
+    {
+      "id": 2,
+      "title": "react"
+    },
+    {
+      "id": 3,
+      "title": "tips"
+    },
+    {
+      "id": 4,
+      "title": "vscode"
+    },
+    {
+      "id": 5,
+      "title": "tailwind"
+    },
+    {
+      "id": 6,
+      "title": "css"
+    },
+    {
+      "id": 7,
+      "title": "debounce"
+    },
+    {
+      "id": 8,
+      "title": "sass"
+    },
+    {
+      "id": 9,
+      "title": "ui"
+    },
+    {
+      "id": 10,
+      "title": "router"
+    },
+    {
+      "id": 11,
+      "title": "Programming"
+    },
+    {
+      "id": 12,
+      "title": "Python"
+    }
+  ]
+}
