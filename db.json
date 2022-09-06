@@ -31,20 +31,98 @@
       "color": "red"
     }
   ],
-  "transactions": [
-    {
-      "id": 1,
-      "name": "Salary from Google",
-      "type": "income",
-      "amount": 1000000
-    },
-    {
-      "id": 2,
-      "name": "Family Expenses",
-      "type": "expense",
-      "amount": 200000
-    }
-  ],
+  "transactions":[
+  {
+    "id": 1,
+    "name": "Salary from Google",
+    "type": "income",
+    "amount": 1000000
+  },
+  {
+    "id": 2,
+    "name": "Family Expenses",
+    "type": "expense",
+    "amount": 200000
+  },
+  {
+    "name": "a",
+    "type": "income",
+    "amount": 101000,
+    "id": 3
+  },
+  {
+    "name": "p",
+    "type": "income",
+    "amount": 543,
+    "id": 4
+  },
+  {
+    "name": "op",
+    "type": "income",
+    "amount": 21,
+    "id": 5
+  },
+  {
+    "name": "er",
+    "type": "income",
+    "amount": 456545656,
+    "id": 6
+  },
+  {
+    "name": "fghf",
+    "type": "income",
+    "amount": 527637,
+    "id": 7
+  },
+  {
+    "name": "fghfgjh",
+    "type": "expense",
+    "amount": 5638,
+    "id": 8
+  },
+  {
+    "name": "gjnhb",
+    "type": "expense",
+    "amount": 563,
+    "id": 9
+  },
+  {
+    "name": "jghkjhk",
+    "type": "income",
+    "amount": 8635,
+    "id": 10
+  },
+  {
+    "name": "ghjkkkk",
+    "type": "income",
+    "amount": 869,
+    "id": 11
+  },
+  {
+    "name": "ghkhbk",
+    "type": "income",
+    "amount": 4745678,
+    "id": 12
+  },
+  {
+    "name": "hgjh",
+    "type": "income",
+    "amount": 76354,
+    "id": 13
+  },
+  {
+    "name": "hgjk",
+    "type": "income",
+    "amount": 7854,
+    "id": 14
+  },
+  {
+    "name": "gkjhl",
+    "type": "expense",
+    "amount": 56375,
+    "id": 15
+  }
+],
   "videos": [
     {
       "id": 1,
