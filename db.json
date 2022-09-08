@@ -45,79 +45,79 @@
     "amount": 200000
   },
   {
-    "name": "a",
+    "name": "upori income",
     "type": "income",
     "amount": 101000,
     "id": 3
   },
   {
-    "name": "p",
+    "name": "programming contest",
     "type": "income",
     "amount": 543,
     "id": 4
   },
   {
-    "name": "op",
-    "type": "income",
-    "amount": 21,
+    "name": "Buy course",
+    "type": "expense",
+    "amount": 2001,
     "id": 5
   },
   {
-    "name": "er",
+    "name": "Earn from Freelancing",
     "type": "income",
     "amount": 456545656,
     "id": 6
   },
   {
-    "name": "fghf",
-    "type": "income",
+    "name": "Buy LWS Course",
+    "type": "expense",
     "amount": 527637,
     "id": 7
   },
   {
-    "name": "fghfgjh",
+    "name": "Buy pHero Course",
     "type": "expense",
     "amount": 5638,
     "id": 8
   },
   {
-    "name": "gjnhb",
+    "name": "Buy Chips",
     "type": "expense",
     "amount": 563,
     "id": 9
   },
   {
-    "name": "jghkjhk",
+    "name": "From Bussness",
     "type": "income",
     "amount": 8635,
     "id": 10
   },
   {
-    "name": "ghjkkkk",
+    "name": "From Salary",
     "type": "income",
     "amount": 869,
     "id": 11
   },
   {
-    "name": "ghkhbk",
-    "type": "income",
+    "name": "Friend Treat",
+    "type": "expense",
     "amount": 4745678,
     "id": 12
   },
   {
-    "name": "hgjh",
-    "type": "income",
+    "name": "Admisson in CSE",
+    "type": "expense",
     "amount": 76354,
     "id": 13
   },
   {
-    "name": "hgjk",
+    "name": "Salary",
     "type": "income",
     "amount": 7854,
     "id": 14
   },
   {
-    "name": "gkjhl",
+    "name": "Buy book",
     "type": "expense",
     "amount": 56375,
     "id": 15
